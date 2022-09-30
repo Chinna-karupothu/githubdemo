@@ -1,0 +1,8 @@
+name,age,address
+srinath,45,mumbai
+kholi,33,delhi
+dhini,35,ranchi
+yuvraj,40,Chandigarh
+ashwin,30,tamilnadu
+hardik pandya,31,Baroda
+dinesh karthik,37,chennai
